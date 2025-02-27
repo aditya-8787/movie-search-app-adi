@@ -1,5 +1,3 @@
-# movie-search-app-adi
-Integrated a third-party API to fetch real-time movie data, including titles, ratings, and descriptions, ensured a responsive UI.
 # Expo Router RSC Movies Demo
 
 > Expo RSC is in preview and may have unexpected behavior that's hard to understand. Errors, HMR, and deployment will all be solid when it's moved out of beta.
